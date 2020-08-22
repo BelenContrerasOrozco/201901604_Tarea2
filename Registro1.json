@@ -1,0 +1,27 @@
+[
+    {
+        "Nombre": "Jeannette",
+        "Edad": 45,
+        "Mes de nacimiento": "Enero",
+        "Estado": "Soltera"
+    },
+
+    {
+        "Nombre": "Jose",
+        "Edad": 60,
+        "Mes de nacimiento": "Marzo",
+        "Estado": "Casado"
+    },
+    {
+        "Nombre": "Maria",
+        "Edad": 5,
+        "Mes de nacimiento": "Febrero",
+        "Estado": "Soltera"
+    },
+    {
+        "Nombre": "Alejandro",
+        "Edad": 20,
+        "Mes de nacimiento": "Agosto",
+        "Estado": "Solter0"
+    }
+]

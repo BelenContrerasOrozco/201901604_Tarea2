@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<universidad>
+    <curso id="1">
+        <nombre>Mate 1</nombre>
+        <creditos>5</creditos>
+        <catedratico>Maria Rosario</catedratico>
+        <seccion>A+</seccion>
+    </curso>
+    <curso id="2">
+        <nombre>fisica</nombre>
+        <creditos>10</creditos>
+        <catedratico>Jose Alfredo</catedratico>
+        <seccion>N</seccion>
+    </curso>
+    <curso id="3">
+        <nombre>Humanistica 1</nombre>
+        <creditos>9</creditos>
+        <catedratico>Roberta Lopez</catedratico>
+        <seccion>P-</seccion>
+    </curso>
+    <curso id="4">
+        <nombre>Estadistica</nombre>
+        <creditos>4</creditos>
+        <catedratico>Felipe Morales</catedratico>
+        <seccion>Q</seccion>
+    </curso>
+</universidad>
